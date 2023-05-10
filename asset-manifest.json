@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ateliware-AmazonIA/static/css/main.8d717a7a.css",
+    "main.js": "/ateliware-AmazonIA/static/js/main.13380716.js",
+    "static/js/787.993f258e.chunk.js": "/ateliware-AmazonIA/static/js/787.993f258e.chunk.js",
+    "static/media/icon.png": "/ateliware-AmazonIA/static/media/icon.b3e77ffbbe2c33592bf1.png",
+    "static/media/stacked-peaks-haikei.svg": "/ateliware-AmazonIA/static/media/stacked-peaks-haikei.deb2d72a16304dfa80c2.svg",
+    "index.html": "/ateliware-AmazonIA/index.html",
+    "main.8d717a7a.css.map": "/ateliware-AmazonIA/static/css/main.8d717a7a.css.map",
+    "main.13380716.js.map": "/ateliware-AmazonIA/static/js/main.13380716.js.map",
+    "787.993f258e.chunk.js.map": "/ateliware-AmazonIA/static/js/787.993f258e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d717a7a.css",
+    "static/js/main.13380716.js"
+  ]
+}
