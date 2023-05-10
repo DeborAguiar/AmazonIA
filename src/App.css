@@ -1,0 +1,17 @@
+body{
+  background-image: url("./imgs/stacked-peaks-haikei.svg");
+  background-size: cover;
+}
+.box{
+  color: white;
+  background-color: #02A881;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.35); 
+  box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.35);
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 75%;
+}
