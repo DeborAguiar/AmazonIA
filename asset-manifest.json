@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AmazonIA/static/css/main.1072f10a.css",
-    "main.js": "/AmazonIA/static/js/main.ce9a1296.js",
+    "main.css": "/AmazonIA/static/css/main.b2a1fce2.css",
+    "main.js": "/AmazonIA/static/js/main.27084ef0.js",
     "static/js/787.993f258e.chunk.js": "/AmazonIA/static/js/787.993f258e.chunk.js",
     "static/media/icon.png": "/AmazonIA/static/media/icon.b3e77ffbbe2c33592bf1.png",
     "static/media/stacked-peaks-haikei.svg": "/AmazonIA/static/media/stacked-peaks-haikei.deb2d72a16304dfa80c2.svg",
     "index.html": "/AmazonIA/index.html",
-    "main.1072f10a.css.map": "/AmazonIA/static/css/main.1072f10a.css.map",
-    "main.ce9a1296.js.map": "/AmazonIA/static/js/main.ce9a1296.js.map",
+    "main.b2a1fce2.css.map": "/AmazonIA/static/css/main.b2a1fce2.css.map",
+    "main.27084ef0.js.map": "/AmazonIA/static/js/main.27084ef0.js.map",
     "787.993f258e.chunk.js.map": "/AmazonIA/static/js/787.993f258e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1072f10a.css",
-    "static/js/main.ce9a1296.js"
+    "static/css/main.b2a1fce2.css",
+    "static/js/main.27084ef0.js"
   ]
 }
