@@ -66,23 +66,28 @@ function App() {
 
   return (
     <div>
-      {/* User just for the logo */}
-      <Navbar />
-      {/* Conteiner at the certer of the screen */}
-      <div className="box container p-3 col-8">
-        <p className='fs-5 fw-semibold text-center'>
-          Select the marker and then its position on the map
-        </p>
-        <div className='row'>
-          <div className="col text-center pt-4">
-            {/* Buttons */}
-            {/* so that it is possible to change the state of the variables in the child components, I sent the functions that make it possible through a component property (setSelected) */}
-            <Inputs setSelected={selectionTreatment} search={search} spinner={spinner} />
-            {/* List of previous paths */}
-            <List list={pathsList} />
+      <div id="body">
+      </div>
+
+      <div>
+        {/* User just for the logo */}
+        <Navbar />
+        {/* Conteiner at the certer of the screen */}
+        <div className="box container p-3 col-8">
+          <p className='fs-5 fw-semibold text-center'>
+            Select the marker and then its position on the map
+          </p>
+          <div className='row'>
+            <div className="col text-center pt-4">
+              {/* Buttons */}
+              {/* so that it is possible to change the state of the variables in the child components, I sent the functions that make it possible through a component property (setSelected) */}
+              <Inputs setSelected={selectionTreatment} search={search} spinner={spinner} />
+              {/* List of previous paths */}
+              <List list={pathsList} />
+            </div>
+            {/* Board if the possibles positions */}
+            <Map selected={selected} positions={positions} />
           </div>
-          {/* Board if the possibles positions */}
-          <Map selected={selected} positions={positions} />
         </div>
       </div>
     </div>
