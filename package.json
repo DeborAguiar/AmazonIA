@@ -1,5 +1,5 @@
 {
-  "homepage": "http://DeborAguiar.github.io/ateliware-AmazonIA",
+  "homepage": "https://DeborAguiar.github.io/AmazonIA",
   "name": "amazonia",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^4.0.0-alpha.6",
     "gh-pages": "^5.0.0",
+    "jquery": "^3.6.4",
     "node-dijkstra": "^2.5.0",
     "react": "^18.2.0",
     "react-bootstrap": "^0.32.1",
